@@ -2,7 +2,7 @@ package cis112_2025_1_e7final_List_Q2_g2;
 
 /**
  * Linked list.
- * 
+ * version 2
  * @author bingol
  */
 public class LinkedList {
