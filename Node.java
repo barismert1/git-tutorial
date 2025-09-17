@@ -2,7 +2,7 @@ package cis112_2025_1_e7final_List_Q2_g2;
 
 /**
  * A node having data as String.
- * 
+ * new version
  * @author bingol
  */
 public class Node {
